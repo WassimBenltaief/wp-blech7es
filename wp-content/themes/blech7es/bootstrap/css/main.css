@@ -1,0 +1,192 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+
+@import url(http://fonts.googleapis.com/earlyaccess/lateef.css);
+@import url(http://fonts.googleapis.com/earlyaccess/thabit.css);
+
+
+ body {
+  background-color: #000;
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+width: 100%;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Titles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', serif;
+    font-weight: 300;
+    color: #eee;
+    
+}
+.toweb{
+
+border-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    width: 150px;
+
+}
+/* thumbs */
+.thumbs{
+-moz-box-shadow: 5px 0px 20px 3px rgba(101, 101, 101, 0.29);
+-webkit-box-shadow: 5px 0px 20px 3px rgba(101, 101, 101, 0.29);
+-o-box-shadow: 5px 0px 20px 3px rgba(101, 101, 101, 0.29);
+box-shadow: 5px 0px 20px 3px rgba(101, 101, 101, 0.29);
+filter:progid:DXImageTransform.Microsoft.Shadow(color=rgba(101, 101, 101, 0.29), Direction=90, Strength=20);
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+    width: 90%;
+    background-color: #fff;
+
+
+}
+.img-prev{
+
+width: 100%;
+    height: 150px;
+    background-size: cover;
+    
+}
+.caption{
+    padding-bottom: 5px;
+font-size: 13px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.tags{
+padding-top: 10px;
+}
+/* thumbs */
+.ag-event{
+border-bottom: 1px solid #555;
+
+}
+
+.main{
+
+    padding-top: 50px;
+background-color: #eee;
+    color: #555;
+
+
+
+}
+.main h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    color: #555;
+    
+}
+.main-post{
+
+background-color: #eee;
+    color: #555;
+
+
+
+}
+.main-post h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    color: #555;
+    
+}
+.cover-img{
+
+width: 100%;
+    height: 350px;
+    background-size: cover;
+    
+}
+.add{
+
+    border-bottom: 1px solid #555;
+    background-color: #fff;
+
+
+}
+
+/* Paragraph & Typographic */
+p {
+    line-height: 28px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+.credit{
+font-size: 13px;
+
+}
+.credit a{
+color: #eee;
+    text-decoration: underline;
+}
+
+.centered {
+    text-align: center;
+}
+
+/* Links */
+a {
+    color: #ecf0f1;
+    word-wrap: break-word;
+
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+#ar{
+font-family: 'Droid Arabic Kufi', serif;
+    font-size: 200;
+}
+
+a:hover,
+a:focus {
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:before,
+a:after {
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+ hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.logo {
+	text-align: center;
+	margin-top: 25px;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+.w {
+	margin-top: 40px;
+}
+.w i {
+	font-size: 26px;
+	padding: 12px;
+}
+.w p{
+color: #fff;
+
+}
